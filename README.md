@@ -97,9 +97,9 @@ This page focuses on **product performance and geographic sales distribution**.
 ## 📷 Dashboard Preview
 
 ### Executive Overview
-![Executive Overview](assets/executive_overview.png)
+![Executive Overview](executive_overview.png)
 
 ### Product & Market Analysis
-![Product Market Analysis](assets/product_market_analysis.png)
+![Product Market Analysis](product_market_analysis.png)
 
 ---
